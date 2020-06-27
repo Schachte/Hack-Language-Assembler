@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="750a410f-d90e-4ce2-9b37-ad8c6dfb4d30" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dt23BftRXBDo8Jdi2Mw2kroy4c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints" />
+  </component>
+  <component name="RunManager" selected="JUnit.ParserTest">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="HackAssembler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HackAssembler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="util" />
+      <option name="MAIN_CLASS_NAME" value="util.ParserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTest.testCInstructionFull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HackAssembler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="util" />
+      <option name="MAIN_CLASS_NAME" value="util.ParserTest" />
+      <option name="METHOD_NAME" value="testCInstructionFull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTest.testCInstructionSubtraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HackAssembler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="util" />
+      <option name="MAIN_CLASS_NAME" value="util.ParserTest" />
+      <option name="METHOD_NAME" value="testCInstructionSubtraction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTest.testParseNonAlphaNumeric" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HackAssembler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="util" />
+      <option name="MAIN_CLASS_NAME" value="util.ParserTest" />
+      <option name="METHOD_NAME" value="testParseNonAlphaNumeric" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ParserTest" />
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="JUnit.ParserTest.testParseNonAlphaNumeric" />
+        <item itemvalue="JUnit.ParserTest.testCInstructionSubtraction" />
+        <item itemvalue="JUnit.ParserTest.testCInstructionFull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="750a410f-d90e-4ce2-9b37-ad8c6dfb4d30" name="Default Changelist" comment="" />
+      <created>1593229866957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593229866957</updated>
+      <workItem from="1593229872179" duration="15675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.asm" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="880" y="397" key="#Project_Structure" timestamp="1593234998016">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="880" y="397" key="#Project_Structure/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593234998016" />
+    <state x="833" y="504" width="1089" height="584" key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow" timestamp="1593232820616">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="833" y="504" width="1089" height="584" key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593232820616" />
+    <state x="100" y="123" width="2360" height="1217" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593238709531">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="100" y="123" width="2360" height="1217" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593238709531" />
+    <state x="1025" y="541" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593232388850">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1025" y="541" key="#com.intellij.fileTypes.FileTypeChooser/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593232388850" />
+    <state x="1303" y="616" key="#xdebugger.evaluate" timestamp="1593245436663">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1303" y="616" key="#xdebugger.evaluate/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593245436663" />
+    <state width="2518" height="408" key="GridCell.Tab.0.bottom" timestamp="1593245768798">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.bottom/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593245768798" />
+    <state width="2518" height="408" key="GridCell.Tab.0.center" timestamp="1593245768798">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.center/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593245768798" />
+    <state width="2518" height="408" key="GridCell.Tab.0.left" timestamp="1593245768797">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.left/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593245768797" />
+    <state width="2518" height="408" key="GridCell.Tab.0.right" timestamp="1593245768798">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.right/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593245768798" />
+    <state width="2518" height="501" key="GridCell.Tab.1.bottom" timestamp="1593245519323">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.1.bottom/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593245519323" />
+    <state width="2518" height="501" key="GridCell.Tab.1.center" timestamp="1593245519322">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.1.center/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593245519322" />
+    <state width="2518" height="501" key="GridCell.Tab.1.left" timestamp="1593245519322">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.1.left/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593245519322" />
+    <state width="2518" height="501" key="GridCell.Tab.1.right" timestamp="1593245519323">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.1.right/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593245519323" />
+    <state x="818" y="393" key="Maven.ArtifactSearchDialog" timestamp="1593235032462">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="818" y="393" key="Maven.ArtifactSearchDialog/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593235032462" />
+    <state x="1285" y="223" key="SettingsEditor" timestamp="1593231349879">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1285" y="223" key="SettingsEditor/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593231349879" />
+    <state x="1111" y="948" key="extract.method.dialog" timestamp="1593244629500">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1111" y="948" key="extract.method.dialog/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593244629500" />
+    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1593244635663">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup/-2518.23.2518.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1593244635663" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/util/HackIngest.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/util/ParserTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/util/ParserTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/util/Parser.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/util/ParserTest.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/util/ParserTest.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="row.equals(&quot;@ponggame.0&quot;)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/assembler/Assembler.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
