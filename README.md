@@ -1,6 +1,6 @@
 # Hack Language Assembler
 
-- Ryan Schachte - 
+- Author: Ryan Schachte
 
 # About
 This is a custom machine language assembler written in Java. This program will simply compile an assembly file written against the Hack language specification and output a corresponding binary.
